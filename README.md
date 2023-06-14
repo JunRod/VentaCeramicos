@@ -39,12 +39,12 @@ El proyecto "Venta de Cerámicos" es una aplicación desarrollada en Java que pe
 8. Observa las imágenes adjuntas para tener una visualización de las diferentes pantallas y funcionalidades de la aplicación.
 9. Recuerda que este proyecto fue desarrollado como parte de un trabajo académico y puede contener limitaciones o áreas de mejora. Si tienes alguna duda o inconveniente, no dudes en consultar la documentación o contactar al equipo de desarrollo.
 
-![Imagen del Proyecto](/public/images/consultarceramico.png)
-![Imagen del Proyecto](/public/images/modificarceramico.png)
-![Imagen del Proyecto](/public/images/listadoceramico.png)
-![Imagen del Proyecto](/public/images/venderceramico.png)
-![Imagen del Proyecto](/public/images/reporteceramico.png)
-![Imagen del Proyecto](/public/images/configdescuento.png)
-![Imagen del Proyecto](/public/images/configobsequios.png)
-![Imagen del Proyecto](/public/images/configcantoptima.png)
-![Imagen del Proyecto](/public/images/acercadelatienda.png)
+![Imagen del Proyecto](/images/consultarceramico.png)
+![Imagen del Proyecto](/images/modificarceramico.png)
+![Imagen del Proyecto](/images/listadoceramico.png)
+![Imagen del Proyecto](/images/venderceramico.png)
+![Imagen del Proyecto](/images/reporteceramico.png)
+![Imagen del Proyecto](/images/configdescuento.png)
+![Imagen del Proyecto](/images/configobsequios.png)
+![Imagen del Proyecto](/images/configcantoptima.png)
+![Imagen del Proyecto](/images/acercadelatienda.png)
